@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b3b3b</color>  //основной цвет
+    <color name="colorPrimaryDark">#2b2b2b</color>  //темнее основной темы
+    <color name="colorAccent">#5f7561</color>  //цвет нажатия кнопки
+    <color name="colorBack">#2A363B</color>
+    <color name="colorButton">#84a882</color>  //цвет кнопки
+    <color name="colorLayoutStroke">#707070</color>
+    <color name="colorMainTheme">#FECEA8</color>  // ораньжевая тема
+    <color name="textColor">#949494</color>
+    <color name="unactivColor">#8e8c89</color>
+</resources>
